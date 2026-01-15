@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: My SpringBoot Service
+  description: My SpringBoot Service
+  x-cortex-tag: My SpringBoot Service
+  x-cortex-type: service
+  x-cortex-git:
+    github:
+      repository: ftvc-org/my-springboot-service
