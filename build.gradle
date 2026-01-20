@@ -10,6 +10,7 @@ buildscript {
 
 plugins {
     id 'java'
+    id 'maven-publish'
     id 'idea'
     id 'eclipse'
     id 'org.springframework.boot' version '3.2.0' // or latest version you need
