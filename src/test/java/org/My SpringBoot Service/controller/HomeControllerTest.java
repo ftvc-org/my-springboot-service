@@ -1,4 +1,4 @@
-package org.My SpringBoot Service.controller;
+package org.my_springboot_service.controller;
 
 import org.junit.Test;
 
