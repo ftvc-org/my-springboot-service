@@ -21,7 +21,7 @@ repositories {
 }
 
 jar {
-    baseName = projectBaseName
+    archiveBaseName  = projectBaseName
 }
 
 dependencies {
